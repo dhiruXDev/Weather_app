@@ -4,16 +4,17 @@
     box-sizing: border-box;
 }
 
-body {
+ {
 
     
 }
-.main_container{
+body{
     background-image: radial-gradient(circle farthest-corner at 10% 20%, rgba(38, 51, 97, 1) 0%, rgba(65, 143, 222, 1) 79%);
     font-family: "Merriweather Sans", sans-serif;
     background-size: cover;
     background-repeat: no-repeat;
     object-fit: fill;
+    
 }
 .wrapper {
     display: flex;
